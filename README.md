@@ -1,1 +1,7 @@
-<div><b>YelpPlay</b></div><div><span style="line-height: 1.7;">Intro to Android group project</span></div><div><span style="line-height: 1.7;">Author: Ramin Amini; Prajna Shetty; Linkai Xi</span></div>
+# YelpPlay
+
+
+Intro to Android group project
+
+
+Author: Ramin Amini; Prajna Shetty; Linkai Xi
